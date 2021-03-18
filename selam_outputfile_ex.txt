@@ -1,0 +1,1 @@
+35	0	50	50	admix_simulation_mito_nuclear_output_results.txt
